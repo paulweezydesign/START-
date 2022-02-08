@@ -41,7 +41,7 @@
     "jwt-decode": "^3.1.2",
     "localforage": "^1.9.0",
     "polka": "next",
-    "sirv": "^1.0.10",
+    "sirv": "^2.0.2",
     "tailwindcss": "^2.0.2",
     "timeago.js": "^4.0.2",
     "wildcard-match": "^5.1.0"
